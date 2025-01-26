@@ -1,1 +1,1 @@
-# rice
+# rice classification - experimental
